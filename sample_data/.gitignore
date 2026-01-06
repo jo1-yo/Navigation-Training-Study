@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+.DS_Store
+
+# data exports / participant data (do not commit)
+data/
+exports/
+*.csv
+*.json
+!sample_data/*.csv
+!sample_data/*.json
