@@ -1,0 +1,9 @@
+participant_id,session_id,study_code,trial_id,condition,timestamp_ms,event_type,event_value
+p001,s001,DEMO123,0,A,0,session_start,
+p001,s001,DEMO123,0,A,1200,trial_start,
+p001,s001,DEMO123,0,A,5120,response,left
+p001,s001,DEMO123,0,A,6200,trial_end,
+p001,s001,DEMO123,1,B,8000,trial_start,
+p001,s001,DEMO123,1,B,13200,response,right
+p001,s001,DEMO123,1,B,14500,trial_end,
+p001,s001,DEMO123,,A,16000,session_end,
